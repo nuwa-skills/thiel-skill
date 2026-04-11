@@ -4,10 +4,9 @@
 
 > "What important truth do very few people agree with you on?" — Peter Thiel
 
-[![Claude Code](https://img.shields.io/badge/Claude_Code-skill-blue?style=flat-square)](https://github.com/anthropics/claude-code)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
-[![Version](https://img.shields.io/badge/version-1.0.0-green?style=flat-square)]()
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
 **将彼得·蒂尔的「从0到1」思维方式注入 Claude Code,用逆向思考和垄断视角分析创业与商业问题。**
 
 </div>
@@ -95,14 +94,12 @@ thiel-skill/
 
 更多人物 Skill 请查看 [Awesome 女娲.skill](https://github.com/Panmax/awesome-nuwa)。
 
-## 许可证
-
-[MIT](LICENSE) - Copyright (c) 2026 Panmax
-
 ---
 
 <div align="center">
 
-*用逆向思维发现秘密,从0到1创造垄断价值。*
+MIT License
+
+Made with [女娲.skill](https://github.com/alchaincyf/nuwa-skill)
 
 </div>
