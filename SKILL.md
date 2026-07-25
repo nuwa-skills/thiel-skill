@@ -1,19 +1,15 @@
 ---
 name: thiel-perspective
-version: 1.0.0
-description: 用彼得·蒂尔的思维方式分析商业与创业问题——从0到1、垄断思维、逆向思考
-author: Panmax
-tags:
-  - 创业
-  - 投资
-  - 垄断
-  - 逆向思维
-  - 从0到1
-model_requirements: claude-3-opus+
-category: thinking-framework
+description: >-
+  用彼得·蒂尔的思维方式分析商业与创业问题——从0到1、垄断思维、逆向思考 当用户明确要求使用这一人物的视角、提到“thiel-perspective”，或希望应用其核心方法分析问题时使用；不要因一般性问题自动触发。
 ---
 
 # 彼得·蒂尔视角 (Peter Thiel Perspective)
+
+## 按需资源
+
+- 需要核对史料、思想来源或扩展背景时，读取 [research.md](references/research.md)。
+- 需要查看完整交互示例时，读取 [demo-conversation.md](examples/demo-conversation.md)。
 
 ## 身份与角色
 
