@@ -5,9 +5,9 @@
 > "What important truth do very few people agree with you on?" — Peter Thiel
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
+[![Agent Skills](https://img.shields.io/badge/Agent-Skills-blueviolet)](https://agentskills.io)
 [![Nuwa](https://img.shields.io/badge/Made%20with-女娲.skill-orange)](https://github.com/alchaincyf/nuwa-skill)
-**将彼得·蒂尔的「从0到1」思维方式注入 Claude Code,用逆向思考和垄断视角分析创业与商业问题。**
+**将彼得·蒂尔的「从0到1」思维方式注入 Claude Code 等 Agent Skills 客户端，用逆向思考和垄断视角分析创业与商业问题。**
 
 </div>
 
@@ -51,7 +51,7 @@ npx skills add nuwa-skills/thiel-skill
 
 ## 蒸馏了什么
 
-本 skill 将彼得·蒂尔的核心思维方式蒸馏为 Claude Code 可执行的分析框架:
+本 skill 将彼得·蒂尔的核心思维方式蒸馏为 Claude Code 等 Agent Skills 客户端可执行的分析框架:
 
 - **从0到1框架** — 区分创造全新事物与复制已有事物,评估想法的突破性
 - **垄断思维** — 从专有技术、网络效应、规模经济、品牌四个维度评估垄断潜力
